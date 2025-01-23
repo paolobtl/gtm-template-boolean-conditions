@@ -4,9 +4,7 @@
 A flexible macro template for Boolean comparisons within Google Tag Manager, enabling conditional checks between variables.
 
 ## Resources
-||
-|----|
-|[Template Gallery]()|
+[GTM Community Template Gallery](https://tagmanager.google.com/gallery/#/owners/paolobtl/templates/gtm-template-boolean-conditions)
 
 ## Inputs
 The template accepts three input parameters:
