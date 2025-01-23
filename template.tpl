@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Boolean condition",
-  "description": "Returns a Boolean value",
+  "description": "A flexible macro template for Boolean comparisons within Google Tag Manager, enabling conditional checks between variables.",
   "containerContexts": [
     "WEB"
   ]
