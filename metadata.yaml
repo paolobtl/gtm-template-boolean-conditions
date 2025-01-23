@@ -2,8 +2,10 @@ homepage: "https://paolobietolini.com/"
 documentation: "https://paolobietolini.com/templates/boolean-conditions/"
 versions:
   # Latest version
+  - sha: d78de821bb4572829d47c1315a8fa6b2e75cb571
+    changeNotes: Update description.
+  # Older versions
   - sha: 6188c69d840f27a19307cd8b53c2fa9b623d4d5c
     changeNotes: Add tests.
-  # Older versions
   - sha: c735301f2ea784deefc8d4659329cf0bedc8c70c
     changeNotes: Initial release.
