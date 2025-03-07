@@ -93,8 +93,6 @@ const inputA = data.inputVar;
 const inputB = data.inputUsr;
 const condition = data.condition;
 
-log(inputA + ' ' + condition + ' ' + inputB);
-
 if (condition === 'equals') {
   return inputA === inputB;
 } else if (condition === 'does not equal') {
